@@ -51,7 +51,7 @@ Este projeto tem como objetivo principal demonstrar o uso básico de entrada de 
 Digite seu peso (em kg): 70
 Digite sua altura (em metros): 1.75
 Seu IMC é: 22.86
-Classificação: Peso normal
+Classificação: Normal - Obesidade grau: 0
 ```
 
 ## 📚 Aprendizados
