@@ -28,3 +28,45 @@ Este projeto tem como objetivo principal demonstrar o uso básico de entrada de 
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/DevRafaSantos/CalculadoraIMCJava.git
+   ```
+2. **Compile o código:**
+   ```bash
+   javac CalculadoraIMC.java
+   ```
+3. **Execute o programa:**
+   ```bash
+   java CalculadoraIMC
+   ```
+## 🖼️ Imagens do Projeto
+
+### 📌 Trecho do Código
+![Trecho do Código](assets/code.png)
+
+### 📌 Resultado no Terminal
+![Resultado no Terminal](assets/resultado_terminal.JPG)
+
+## 📸 Exemplo de Uso
+
+```plaintext
+Digite seu peso (em kg): 70
+Digite sua altura (em metros): 1.75
+Seu IMC é: 22.86
+Classificação: Peso normal
+```
+
+## 📚 Aprendizados
+
+Este projeto me permitiu:
+
+- Praticar entrada e saída de dados em Java;
+- Entender melhor estruturas condicionais;
+- Trabalhar com operações matemáticas;
+- Aprender boas práticas de documentação.
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Se você quiser sugerir melhorias, abrir issues ou criar um pull request, fique à vontade!
+
+---
+
+📌 **Desenvolvido com dedicação e curiosidade 💻 por Rafael Santos**
